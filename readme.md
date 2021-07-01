@@ -1,7 +1,7 @@
 # Extration - FAQs
 A FAQ Extraction. The data collected can be used for, e.g., modeling QnA.<br>
 
-![Extraction](https://j.gifs.com/BrLGlk.gif)
+![Video FAQ Extraction](https://media.giphy.com/media/cRPq415XlBFWOLMKdo/giphy.gif)
 
 ### Installation
 [Install Python](https://www.python.org/downloads/)

@@ -4,7 +4,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import ElementClickInterceptedException
 
 driver = webdriver.Chrome(ChromeDriverManager().install()) 
-driver.get("https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/")
+driver.get("INSER HERE YOUR URL")
 
 def acceptCookies():
     while True:
